@@ -1,3 +1,18 @@
 <resources>
     <dimen name="fab_margin">16dp</dimen>
+    <dimen name="team_lin_layout">0dp</dimen>
+    <dimen name="TextView_match_width">0dp</dimen>
+    <dimen name="TextView_size_Team_Name">27sp</dimen>
+    <dimen name="TextView_size_Team_Score">56sp</dimen>
+    <dimen name="TextView_size_Team_Match">25sp</dimen>
+    <dimen name="Button_margintBottom_ponts">8dp</dimen>
+    <dimen name="Button_margintLeft_ponts">24dp</dimen>
+    <dimen name="Button_margintRight_ponts">24dp</dimen>
+    <dimen name="TextView_paddingBottom_match">24dp</dimen>
+    <dimen name="View_width">1dp</dimen>
+    <dimen name="View_margintTop">16dp</dimen>
+    <dimen name="TextView_padding_team">16dp</dimen>
+    <dimen name="TextView_padding_teamA_name">16dp</dimen>
+    <dimen name="TextView_paddingBottom_teamScore">24dp</dimen>
+    <dimen name="Button_margint_Botton_reset">32dp</dimen>
 </resources>
